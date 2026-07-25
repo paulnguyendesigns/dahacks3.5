@@ -1,4 +1,4 @@
-# Currency Exchange API 💱
+# Currency Exchange API 
 
 A simple Flask API for currency conversion and historical exchange rate data, powered by ExchangeRate-API and FreeCurrencyAPI.
 
